@@ -50,12 +50,19 @@ All outputs are saved in timestamped directories:
 
 logs/YYYY-MM-DD_HH-MM-SS/
   ├── SUMMARY.md     # Markdown summary
+  
   ├── airodump-01.csv
+  
   ├── arp-scan.txt
+  
   ├── nmap-fast.txt
+  
   ├── nmap-full.txt
+  
   ├── sniff.pcap
+  
   └── whatweb-<host>.txt
+  
 
 ---
 ## 🧙 Author
