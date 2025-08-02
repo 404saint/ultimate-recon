@@ -68,4 +68,4 @@ logs/YYYY-MM-DD_HH-MM-SS/
 ---
 ## 🧙 Author
 404saint – Lab-friendly hacker vibes with Bash.
-“If it pings, I’ll find it.”
+> “If it pings, I’ll find it.”
