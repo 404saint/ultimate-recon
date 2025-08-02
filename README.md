@@ -25,3 +25,19 @@ Choose your recon mode or go **God Mode** for maximum intel.
 git clone https://github.com/404saint/ultimate-recon.git
 cd ultimate-recon
 chmod +x ultimate_recon.sh
+```
+
+---
+
+## Make sure required tools are installed:
+
+```bash
+sudo apt install nmap arp-scan aircrack-ng whatweb whois tcpdump fping -y
+```
+
+---
+
+## 🚀 Usage
+
+```bash
+sudo ./ultimate_recon.sh
