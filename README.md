@@ -41,3 +41,22 @@ sudo apt install nmap arp-scan aircrack-ng whatweb whois tcpdump fping -y
 
 ```bash
 sudo ./ultimate_recon.sh
+```
+--- 
+
+## 📂 Logs & Reports
+
+All outputs are saved in timestamped directories:
+logs/YYYY-MM-DD_HH-MM-SS/
+  ├── SUMMARY.md     # Markdown summary
+  ├── airodump-01.csv
+  ├── arp-scan.txt
+  ├── nmap-fast.txt
+  ├── nmap-full.txt
+  ├── sniff.pcap
+  └── whatweb-<host>.txt
+
+---
+## 🧙 Author
+404saint – Lab-friendly hacker vibes with Bash.
+“If it pings, I’ll find it.”
